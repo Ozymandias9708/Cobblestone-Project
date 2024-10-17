@@ -1,0 +1,4 @@
+This project requires the following python libraries:
+
+1. numpy
+2. matplotlib
